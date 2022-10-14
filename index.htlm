@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Beatriz Vidal</title>
+    <link rel="stylesheet" href= "css/index.css">
+  
+</head>
+<body>
+  <div class="container">
+    <nav>
+        <ul>
+         <li>
+      <a href="home.html">Quem sou eu</a>
+      </li> 
+            <li>
+      <a href="Hobbie.html">Hobbie e Interesses</a>
+         </li> 
+            <li>
+      <a href="Contatos.html">Contatos</a>
+         </li> 
+         </ul>
+       </nav>
+       <header>
+<h1>Olá!</h1>
+       </header>
+       <div class="center">
+       <main>
+        <section>
+            <h2>Um pouco de minha pessoa</h2>
+            <p>Tenho 22 anos, formada em técnico em enfermagem e sou estudante do senac.</p>
+	<p>Sou de poucas palavras porém uma ótima ouvinte. Gosto de aprender e ensinar quando necessário; amo a tecnologia no geral.</p>
+<p>Se eu pudesse resumir minha escolha entre humana e exatas: diria que prefiro escrever uma redação de mil linhas do que tentar descobrir quem é o bendito "X" da questão! </p>
+
+<p>Casada a 1 ano com um militar(que a propósito, é fera em exatas), não temos filhos, ainda, e minha matéria favorita, no tempo da escola é história, lígua espanhola e língua portuguesa.</p>
+</div>
+
+<header>
+  <div class="center">
+    <img src="./img/Alan e Ana.JPG"></IMG>
+  </div>
+</header>
+        </section>
+       </main>
+      </div>
+     </body>
+</html>
